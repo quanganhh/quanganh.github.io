@@ -18,7 +18,7 @@ event_label: Events
 description: > # "
   Quang Anh, is a Web -Developer, Front -End Engineer & UI/UX Designer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://quanganh.github.io" # the base hostname & protocol for your site
+url: "http://username.github.io" # the base hostname & protocol for your site
 
 #These settings might be able to go?
 author: Quang Anh
